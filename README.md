@@ -11,6 +11,7 @@
 [![npm version](https://img.shields.io/npm/v/ai-commit-wizard.svg)](https://www.npmjs.com/package/ai-commit-wizard)
 [![npm downloads](https://img.shields.io/npm/dm/ai-commit-wizard.svg)](https://www.npmjs.com/package/ai-commit-wizard)
 [![GitHub license](https://img.shields.io/github/license/evanfang0054/ai-commit-wizard.svg)](https://github.com/evanfang0054/ai-commit-wizard/blob/main/LICENSE)
+[![Node Version](https://img.shields.io/badge/node-%3E%3D18.17.0-brightgreen)](https://nodejs.org)
 
 </div>
 
