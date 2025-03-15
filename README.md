@@ -2,9 +2,13 @@
   <img width="400px" src="https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/mmexport1741946028985.png">
 </p>
 
+
 # 🎯 Ai Commit Wizard
 
 🚀 支持多种ai模型自动、手动生成 Git 提交信息生成工具，让团队提交更规范、更高效
+
+## Demo
+![ai-commit-wizard_demo](https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/acwDemoL.gif)
 
 ## 📋 目录
 
