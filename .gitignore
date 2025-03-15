@@ -46,6 +46,7 @@ coverage
 .cache
 .temp
 .cspellcache
+.commit-wizard.json
 
 # Test coverage
 coverage
