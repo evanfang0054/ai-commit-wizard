@@ -1,6 +1,10 @@
+<p align="center">
+  <img width="400px" src="https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/mmexport1741946028985.png">
+</p>
+
 # 🎯 Ai Commit Wizard
 
-🚀 一个智能的 Git 提交信息生成工具，让团队提交更规范、更高效
+🚀 支持多种ai模型自动、手动生成 Git 提交信息生成工具，让团队提交更规范、更高效
 
 ## 📋 目录
 
@@ -84,7 +88,7 @@ git cw
 
 ## ⚙️ 高级配置
 
-### OpenAI 配置
+### OpenAI 配置(你可以选择使用openai、deepseek、字节等系列模型)
 
 在项目根目录或用户主目录创建 `.commit-wizard.json`:
 

@@ -1,7 +1,7 @@
 {
   "name": "ai-commit-wizard",
   "version": "1.0.0",
-  "description": "一个智能的 Git 提交信息生成工具，让团队提交更规范、更高效",
+  "description": "支持多种ai模型自动、手动生成 Git 提交信息生成工具，让团队提交更规范、更高效",
   "keywords": [
     "ai",
     "commit",
@@ -25,7 +25,8 @@
   "files": [
     "lib/**/*",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "package.json"
   ],
   "repository": {
     "type": "git",
