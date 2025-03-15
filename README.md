@@ -2,13 +2,22 @@
   <img width="400px" src="https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/mmexport1741946028985.png">
 </p>
 
+<div align="center">
 
 # 🎯 Ai Commit Wizard
 
 🚀 支持多种ai模型自动、手动生成 Git 提交信息生成工具，让团队提交更规范、更高效
 
-## Demo
-![ai-commit-wizard_demo](https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/acwDemoL.gif)
+[![npm version](https://img.shields.io/npm/v/ai-commit-wizard.svg)](https://www.npmjs.com/package/ai-commit-wizard)
+[![npm downloads](https://img.shields.io/npm/dm/ai-commit-wizard.svg)](https://www.npmjs.com/package/ai-commit-wizard)
+[![GitHub license](https://img.shields.io/github/license/evanfang0054/ai-commit-wizard.svg)](https://github.com/evanfang0054/ai-commit-wizard/blob/main/LICENSE)
+
+</div>
+
+## ✨ 功能演示
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/acwDemoL.gif" alt="ai-commit-wizard demo">
+</p>
 
 ## 📋 目录
 
