@@ -174,8 +174,16 @@ export class CommitCollector {
 
       // 显示分析步骤
       console.log(chalk.cyan('  1. 分析文件类型和路径...'));
-      console.log(chalk.cyan('    分析文件:'));
-      staged.forEach((file) => console.log(chalk.cyan(`      ${file}`)));
+      console.log(chalk.cyan('\n    📁 分析文件列表:'));
+      staged.forEach((file, index) => {
+        const fileIcon = file.endsWith('/') ? '📂' : '📄';
+        console.log(
+          chalk.green(
+            `      ${index + 1}. ${fileIcon} ${file}`
+          )
+        );
+      });
+      console.log(chalk.gray('\n    共计: ' + staged.length + ' 个文件\n'));
 
       // 准备 OpenAI 提示内容
       const prompt = this.generatePrompt(staged, diffs);
@@ -190,7 +198,7 @@ export class CommitCollector {
       spinner.succeed(chalk.green('  AI 分析完成'));
 
       // 解析 AI 返回结果
-      console.log(chalk.cyan('\n  3. 解析 AI 建议...'));
+      console.log(chalk.cyan('\n  2. 解析 AI 建议...'));
       const { type, scope, subject } = this.parseAISuggestion(suggestion);
 
       // 显示最终结果
