@@ -16,7 +16,7 @@ import { VERSION } from './version';
  * 
  */
 export function showBanner(): void {
-  const asciiArt = figlet.textSync('A C W', {
+  const asciiArt = figlet.textSync('A I C W', {
     font: 'ANSI Shadow',
     horizontalLayout: 'default',
     verticalLayout: 'default'
