@@ -17,7 +17,7 @@
 
 ## ✨ 功能演示
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/acwDemoL.gif" alt="ai-commit-wizard demo">
+  <img src="https://cdn.jsdelivr.net/gh/evanfang0054/blogImage@master/img/AICWDEMO2025-03-17.gif" alt="ai-commit-wizard demo">
 </p>
 
 ## 📋 目录
