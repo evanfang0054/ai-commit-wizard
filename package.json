@@ -1,6 +1,6 @@
 {
   "name": "ai-commit-wizard",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "支持多种ai模型自动、手动生成 Git 提交信息生成工具，让团队提交更规范、更高效",
   "keywords": [
     "ai",
